@@ -1,0 +1,8 @@
+knex:
+  client: "pg"
+  connection:
+    host: "localhost"
+    database: "osm-roads-test"
+    user: "osm-roads-test"
+    password: null
+    port: 15433
